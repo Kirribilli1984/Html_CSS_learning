@@ -1,0 +1,53 @@
+body {
+    font-size: 14px;
+    color: navy;
+    font-family: arial, helvetica, sans-serif;
+    font-size: 14px;
+}
+
+h1 {
+    color: #ffc;
+    background-color: #009;
+}
+
+h2 {
+    font-size: 1.5em;
+    background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+    border-style: dashed;
+    border-width: 3px;
+    border-left-width: 3px;
+    border-right-width: 3px;
+    border-color: rgb(211, 33, 202);
+}
+
+a {
+    text-decoration: none;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+p {
+    letter-spacing: 0.1em;
+    word-spacing: 0.1em;
+    line-height: 1.5;
+    text-align: left;
+}
+
+#top {
+    background-color:#ccc;
+    padding: 20px
+}
+
+.intro {
+    color: red;
+    font-weight: bold;
+}
+
+.thisOtherClass, .yetAnotherClass {
+    color: yellowgreen;
+}
